@@ -1,4 +1,4 @@
-# mexophotomine v1
+# mexophotomine
 A GDI trojan for Windows.
 
 Got bored, so I decided to teach myself how Windows GDI works and make a trojan out of it.
